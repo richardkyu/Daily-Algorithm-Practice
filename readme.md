@@ -43,9 +43,9 @@ My approach is to collect algorithms from various existing repositories and othe
 
 | Day  | Task | Type | From | remarks |
 | --- | --- | --- | --- | --- |
-| 1 | [binary search](/solutions/binarysearch.py) | binary search | [leetcode 704](https://leetcode.com/problems/binary-search) | Bisect method |
-| 2 | [sqrt(x)](/leetcode/69-sqrt-x) | binary search | [leetcode 69](https://leetcode.com/problems/sqrtx/) ||
-| 3 | [search in rotated sorted array](/leetcode/33-search-in-rotated-sorted-array) | binary search | [leetcode 33](https://leetcode.com/problems/search-in-rotated-sorted-array) |  |
+| 1 | [binary search](/solutions/binarysearch.py) | binary search | [leetcode 704](https://leetcode.com/problems/binary-search) | [Bisection method](https://docs.python.org/2/library/bisect.html), O(log n) time complexity for binary search method |
+| 2 | [sqrt(x)](/solutions/sqrt.py) | binary search | [leetcode 69](https://leetcode.com/problems/sqrtx/) | This was just making a square root|
+| 3 | [search in rotated sorted array](/leetcode/33-search-in-rotated-sorted-array) | binary search | [leetcode 33](https://leetcode.com/problems/search-in-rotated-sorted-array) | Need to review how the logic works here |
 | 4 | [Find Peak Element](/leetcode/162-find-peak-element) | binary search | [leetcode 162](https://leetcode.com/problems/find-peak-element/) ||
 | 5 | [Find Minimum in Rotated Sorted Array](/leetcode/153-find-minimum-in-rotated-sorted-array) | binary search | [leetcode 153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | |
 | 6 | [Search for a Range](/leetcode/34-search-for-a-range) | binary search | [leetcode 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | |
