@@ -28,9 +28,9 @@ My approach is to collect algorithms from various existing repositories and othe
 - Math
 
 #### Questions from the following:
-- [AlgoDaily] (https://algodaily.com/)
-- [HackerRank] (https://www.hackerrank.com)
-- [AlgoExpert] (https://www.algoexpert.io/questions)
+- [AlgoDaily](https://algodaily.com/)
+- [HackerRank](https://www.hackerrank.com)
+- [AlgoExpert](https://www.algoexpert.io/questions)
 - [Leetcode](https://leetcode.com)
 - [Project Euler](https://projecteuler.net)
 - [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
@@ -43,7 +43,7 @@ My approach is to collect algorithms from various existing repositories and othe
 
 | Day  | Task | Type | From | remarks |
 | --- | --- | --- | --- | --- |
-| 1 | [binary search](/leetcode/704-binary-search) | binary search | [leetcode 704](https://leetcode.com/problems/binary-search) |  |
+| 1 | [binary search](/solutions/binarysearch.py) | binary search | [leetcode 704](https://leetcode.com/problems/binary-search) | Bisect method |
 | 2 | [sqrt(x)](/leetcode/69-sqrt-x) | binary search | [leetcode 69](https://leetcode.com/problems/sqrtx/) ||
 | 3 | [search in rotated sorted array](/leetcode/33-search-in-rotated-sorted-array) | binary search | [leetcode 33](https://leetcode.com/problems/search-in-rotated-sorted-array) |  |
 | 4 | [Find Peak Element](/leetcode/162-find-peak-element) | binary search | [leetcode 162](https://leetcode.com/problems/find-peak-element/) ||
