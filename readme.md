@@ -45,5 +45,5 @@ My approach is to collect algorithms from various existing repositories and othe
 | --- | --- | --- | --- | --- |
 | 1 | [binary search](/solutions/binarysearch.py) | binary search | [leetcode 704](https://leetcode.com/problems/binary-search) | [Bisection method](https://docs.python.org/2/library/bisect.html), O(log n) time complexity for binary search method |
 | 2 | [sqrt(x)](/solutions/sqrt.py) | binary search | [leetcode 69](https://leetcode.com/problems/sqrtx/) | This was just making a square root|
-| 3 | [search in rotated sorted array](/leetcode/33-search-in-rotated-sorted-array) | binary search | [leetcode 33](https://leetcode.com/problems/search-in-rotated-sorted-array) | Need to review how the logic works here |
-| 4 | [two sum](https://leetcode.com/problems/two-sum/submissions/) | find indices of two elements that make a sum | | |
+| 3 | [search in rotated sorted array](/solutions/rotatedsortedarray.py) | binary search | [leetcode 33](https://leetcode.com/problems/search-in-rotated-sorted-array) | Need to review how the logic works here |
+| 4 | [two sum](solutions/two-sum.py) | find indices of two elements that make a sum | [leetcode 1](https://leetcode.com/problems/two-sum/) | |
